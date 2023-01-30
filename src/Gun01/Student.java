@@ -7,5 +7,7 @@ public class Student {
         System.out.println("task2 ");
 
         System.out.println("task3");
+
+        System.out.println("task 4 kendi isim commit yapacam ayirmak icin ");
     }
 }
